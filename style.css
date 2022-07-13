@@ -12,6 +12,9 @@ header {
   text-align: center;
   flex-direction: column;
 }
+header .menu-nav {
+  text-decoration: none;
+}
 
 main {
   color: white;
@@ -29,4 +32,9 @@ main .msphoto {
   height: 30%;
   border-radius: 2em;
   border: solid;
+}
+
+.btn {
+  background-color: red;
+  color: darkorchid;
 }/*# sourceMappingURL=style.css.map */

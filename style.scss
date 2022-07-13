@@ -11,6 +11,12 @@ header {
     justify-content: center;
     text-align: center;
     flex-direction: column;
+
+    .menu-nav {
+        text-decoration: none;
+    }
+    
+    
 }
 
 
@@ -24,16 +30,25 @@ main {
     justify-content: center;
     letter-spacing: 2px;
     flex-direction: column;
+    
     .msphoto {
         margin: auto;
         width: 30%; height: 30%;
         border-radius: 2em;
         border: solid;
+            
+        }
+
+        
 
     }
 
+    .btn {
+        background-color: red;
+        color: darkorchid;
     }
 
+    
    
 
     
