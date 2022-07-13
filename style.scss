@@ -1,0 +1,46 @@
+body {
+    background-image: linear-gradient(to right, #ADA8B6, black);
+    font-family: 'Outfit', sans-serif;
+}
+
+header {
+    color: white;
+    background-image: linear-gradient(to right, #ADA8B6, black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+
+
+main {
+    color: white;
+    width: 85%;
+    margin: auto;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 2px;
+    flex-direction: column;
+    .msphoto {
+        margin: auto;
+        width: 30%; height: 30%;
+        border-radius: 2em;
+        border: solid;
+
+    }
+
+    }
+
+   
+
+    
+
+  
+    
+    
+    
+    
+
